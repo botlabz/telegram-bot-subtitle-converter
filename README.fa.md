@@ -1,6 +1,6 @@
-# Subtitle Converter 🤖
+# ربات تلگرام Subtitle Converter — رایگان و متن‌باز 🤖
 
-تبدیل فایل‌های زیرنویس بین SRT، VTT و متن ساده — جاوااسکریپت خالص، آنی.
+**Subtitle Converter** یک ربات تلگرام رایگان و متن‌باز است که تبدیل فایل‌های زیرنویس بین SRT، VTT و متن ساده — جاوااسکریپت خالص، آنی. سورس ربات روی گیت‌هاب موجود است و روی Cloudflare Workers رایگان میزبانی می‌شود.
 
 > 🪪 **مجوز:** MIT — برای استفاده شخصی و تجاری آزاد است.
 
@@ -132,6 +132,21 @@ telegram-bot-subtitle-converter/
 ## 🆓 رایگان و متن‌باز
 
 این پروژه تحت مجوز **MIT** منتشر شده است — برای استفاده شخصی و تجاری آزاد است.
+
+---
+
+## 🤖 ربات‌های تلگرام رایگان دیگر
+
+بخشی از مجموعه ربات‌های تلگرام رایگان و متن‌باز توسط [botlabz](https://github.com/botlabz):
+
+- [اصلاح‌کننده کد با هوش‌مصنوعی](https://github.com/botlabz/telegram-bot-ai-code-fixer)
+- [تولیدکننده محتوا با هوش‌مصنوعی](https://github.com/botlabz/telegram-bot-ai-content-generator)
+- [چت با سند هوش‌مصنوعی](https://github.com/botlabz/telegram-bot-ai-document-chat)
+- [تحلیل‌گر فایل هوش‌مصنوعی](https://github.com/botlabz/telegram-bot-ai-file-analyzer)
+- [پایش‌گر گیت‌هاب هوش‌مصنوعی](https://github.com/botlabz/telegram-bot-ai-github-tracker)
+- [چکیده اخبار هوش‌مصنوعی](https://github.com/botlabz/telegram-bot-ai-news-digest)
+
+همه ربات‌ها در سازمان [tele-bot](https://github.com/botlabz/tele-bot) موجودند.
 
 ---
 

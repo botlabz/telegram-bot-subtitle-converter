@@ -1,6 +1,6 @@
-# Subtitle Converter 🤖
+# Telegram Bot: Subtitle Converter — Free & Open Source 🤖
 
-Convert subtitle files between SRT, VTT and plain text — pure JavaScript, instant.
+**Subtitle Converter** is a free, open-source Telegram bot that converts subtitle files between SRT, VTT and plain text — pure JavaScript, instant. Self-host it for free on Cloudflare Workers — full source code included (MIT).
 
 > 🪪 **License:** MIT — free for personal and commercial use.
 
@@ -132,6 +132,21 @@ telegram-bot-subtitle-converter/
 ## 🆓 Free & open source
 
 This project is released under the **MIT License** — free for personal and commercial use.
+
+---
+
+## 🤖 More free Telegram bots
+
+Part of a free, open-source Telegram bot collection by [botlabz](https://github.com/botlabz):
+
+- [AI Code Fixer](https://github.com/botlabz/telegram-bot-ai-code-fixer)
+- [AI Content Generator](https://github.com/botlabz/telegram-bot-ai-content-generator)
+- [AI Document Chat](https://github.com/botlabz/telegram-bot-ai-document-chat)
+- [AI File Analyzer](https://github.com/botlabz/telegram-bot-ai-file-analyzer)
+- [AI GitHub Tracker](https://github.com/botlabz/telegram-bot-ai-github-tracker)
+- [AI News Digest](https://github.com/botlabz/telegram-bot-ai-news-digest)
+
+Browse all bots in the [tele-bot](https://github.com/botlabz/tele-bot) org.
 
 ---
 
